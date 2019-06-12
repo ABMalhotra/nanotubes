@@ -16,9 +16,6 @@ The repository is free to use with attribution. Please cite the following public
 
 Malhotra, Abhinav, and Maldovan, Martin; *Thermal Transport in Semiconductor Nanotubes* [International Journal of Heat and Mass Transfer 130, 368,](https://doi.org/10.1016/j.ijheatmasstransfer.2018.10.068) (2019).
 
-## Warranty
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 ## Requirements
 1. Python3 with numpy installed. 
 2. Currently supported only for MacOS.
